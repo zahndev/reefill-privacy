@@ -1,57 +1,178 @@
-# Reefill Privacy Policy
+# REEFILL Privacy Policy
 
-Effective date: August 9, 2026
+Effective Date: August 12, 2026
 
-Reefill is a hydration tracking app. This Privacy Policy explains what information Reefill stores, how it is used, and what choices users have.
+REEFILL ("REEFILL," "we," "us," or "our") is a hydration tracking and habit-building application. This Privacy Policy explains what information is stored or processed when you use REEFILL, how that information is used, when information may be processed by third-party services, and the choices available to you.
 
-## Summary
+## 1. Overview
 
-Reefill is designed to work without an account. In the current version, Reefill does not operate its own backend server and does not upload your hydration history to Reefill-owned servers.
+REEFILL is designed to minimize the collection of personal information.
 
-## Information Stored On Your Device
+The current version of REEFILL:
 
-Reefill may store the following information locally on your device:
+• Does not require you to create an account
+• Does not operate a REEFILL-owned backend for storing your hydration history
+• Stores your hydration entries and personalization information locally on your device
+• Does not sell your personal information
+• Uses third-party services, including Apple and Superwall, for purchases, subscriptions, paywalls, and related functionality
 
-* Water entries, including amounts logged and the time they were added.
-* Onboarding answers such as name, age, height, weight, activity level, hydration goal, and estimated current water intake.
-* Daily hydration goal, XP, streaks, achievements, unlocked companions, equipped companion, reminder settings, and app preferences.
+Some technical, device, app usage, paywall, and purchase-related information may be processed by these third-party services as described below.
 
-This information is used to calculate hydration goals, show progress, keep history, manage reminders, and personalize the app experience.
+## 2. Information Stored Locally on Your Device
 
-## Notifications
+REEFILL may store information you provide or generate through use of the app locally on your device, including:
 
-If you enable reminders, Reefill schedules local notifications on your device. These may include hydration reminders and streak-protection reminders. You can turn reminders off in Reefill or in iPhone Settings.
+• Name or display name
+• Age
+• Height
+• Weight
+• Activity level
+• Estimated current water intake
+• Personalized daily hydration goal
+• Water entries, including the amount logged and time of entry
+• Hydration history and progress
+• Streak information
+• XP and progression
+• Achievements
+• Unlocked and equipped companions or fish
+• Reminder preferences
+• App settings and preferences
 
-## Purchases and Paywalls
+This information is used to provide REEFILL's core functionality, including calculating a personalized hydration target, displaying your hydration progress and history, maintaining streaks and progression, managing reminders, and personalizing your experience.
 
-Reefill may use Apple in-app purchases and Superwall to present paywalls, manage purchase flows, and understand paywall performance. Purchase processing is handled by Apple. Superwall may process technical and purchase-related information needed to provide its service, subject to Superwall's own privacy practices.
+REEFILL does not upload your locally stored hydration history or onboarding information to a REEFILL-owned server in the current version of the app.
 
-## Data Sharing
+## 3. Hydration and Wellness Information
 
-Reefill does not sell your personal data. Reefill does not require an account in the current version and does not upload your hydration history to Reefill-owned servers.
+REEFILL uses information such as your age, height, weight, activity level, and estimated water intake to provide a personalized hydration target and related wellness features.
 
-## Data Retention
+This information is intended to support general wellness and habit building. It is not used by REEFILL to diagnose, treat, cure, or prevent any disease or medical condition.
 
-Your Reefill data stays on your device until you delete it, reset the app data, or uninstall the app. Uninstalling the app may remove local data depending on iOS behavior and backup settings.
+Unless otherwise stated in this Policy, this information remains stored locally on your device.
 
-## Security
+## 4. Notifications
 
-Reefill uses iOS system storage and platform protections for local app data. No method of storage or transmission can be guaranteed completely secure, but Reefill is designed to minimize data collection and avoid unnecessary server-side storage.
+If you choose to enable notifications, REEFILL may schedule local notifications on your device, including:
 
-## Health Disclaimer
+• Hydration reminders
+• Daily progress reminders
+• Streak-related reminders
 
-Reefill provides general hydration tracking and habit-building guidance. It is not medical advice. Hydration needs vary. If you have a medical condition, are pregnant, take medications that affect hydration, or have physician-directed fluid limits, follow professional medical guidance.
+You can disable REEFILL notifications at any time through the app, where available, or through your device's iOS notification settings.
 
-## Children
+REEFILL does not require notification permission to use the app's primary functionality.
 
-Reefill is not intended for children where parental consent is required by law, and Reefill does not knowingly collect personal information from children.
+## 5. Purchases and Subscriptions
 
-## Changes
+REEFILL may offer premium features through Apple's In-App Purchase system.
 
-We may update this Privacy Policy as Reefill changes. The effective date will be updated when material changes are made.
+Purchases and subscriptions are processed by Apple. REEFILL does not directly receive or store your full payment card or banking information.
 
-## Contact
+Apple may process information associated with purchases according to Apple's own privacy practices and terms.
 
-For privacy questions, contact us at:
+## 6. Superwall
+
+REEFILL uses Superwall, a third-party service, to provide and manage paywalls, subscription-related experiences, and paywall performance.
+
+The Superwall SDK may process certain technical, device, application, paywall, and purchase-related information necessary to provide its services. Depending on the configuration and features used, this may include information such as device or vendor identifiers, app version, operating system or platform information, application user identifiers, paywall interactions, subscription status, product information, and purchase-related information.
+
+REEFILL does not intentionally send your locally stored hydration history, age, height, weight, or individual water entries to Superwall for advertising purposes.
+
+Information processed by Superwall is subject to Superwall's own privacy practices.
+
+## 7. Third-Party Services
+
+REEFILL currently relies on third-party services for certain functionality, including:
+
+• Apple — app distribution, In-App Purchases, subscription processing, and related platform services
+• Superwall — paywalls, subscription experiences, and related performance information
+
+These third parties may process information according to their respective privacy policies and terms.
+
+REEFILL does not sell your personal information to these third parties.
+
+If additional third-party services that process user information are introduced in future versions of REEFILL, this Privacy Policy will be updated as appropriate.
+
+## 8. Advertising and Tracking
+
+REEFILL does not currently use your hydration history or wellness information for third-party advertising.
+
+REEFILL does not sell your personal information.
+
+If REEFILL's advertising or tracking practices materially change in the future, this Privacy Policy and any required permissions or disclosures will be updated accordingly.
+
+## 9. Data Sharing
+
+REEFILL does not sell your personal information.
+
+Information may be processed by service providers only as necessary to provide functionality used by REEFILL, such as purchases, subscriptions, and paywall functionality.
+
+Information may also be disclosed when reasonably necessary to comply with applicable law, legal process, or enforceable governmental requests, or to protect the rights, safety, and security of REEFILL, its users, or others.
+
+## 10. Data Retention
+
+Hydration history, onboarding information, progress, settings, and other information stored locally by REEFILL generally remain on your device until you delete or reset that information or remove the app.
+
+Deleting REEFILL may remove locally stored application data, subject to iOS functionality, device backups, and other Apple platform features outside of REEFILL's control.
+
+Information processed by Apple, Superwall, or another third-party service may be retained according to that service provider's own retention policies.
+
+## 11. Your Choices and Data Deletion
+
+You have control over information stored locally by REEFILL.
+
+Depending on the functionality available in your version of REEFILL, you may be able to reset or delete locally stored information from within the app. You may also remove locally stored REEFILL information by deleting the app from your device, subject to iOS backup and restoration functionality.
+
+You can disable notifications at any time through REEFILL or through iOS Settings.
+
+Because REEFILL does not currently require user accounts or maintain a REEFILL-owned server containing your hydration history, we generally do not have access to remotely retrieve or delete hydration information stored only on your device.
+
+For privacy questions or requests concerning information handled directly by REEFILL, you may contact us using the email address provided below.
+
+Requests involving information independently processed by Apple or Superwall may also be subject to those companies' respective privacy procedures.
+
+## 12. Security
+
+REEFILL uses iOS system storage and platform protections for information stored locally by the application.
+
+We seek to minimize unnecessary collection and transmission of personal information. However, no electronic storage or transmission system can be guaranteed to be completely secure.
+
+## 13. Children's Privacy
+
+REEFILL is not specifically directed to children.
+
+REEFILL does not knowingly collect personal information from children through a REEFILL-owned account or backend service.
+
+Where parental consent or another legal basis is required by applicable law for a child to use a service, the child should use REEFILL only with the involvement and authorization of a parent or legal guardian as required by applicable law.
+
+## 14. Health and Medical Disclaimer
+
+REEFILL is intended for general wellness, hydration tracking, and habit-building purposes only.
+
+REEFILL does not provide medical advice, diagnosis, or treatment. Personalized hydration targets generated by REEFILL are general estimates and may not be appropriate for every individual.
+
+Hydration needs can vary based on health conditions, medications, pregnancy, physical activity, climate, diet, and other factors.
+
+If you have a medical condition, take medication that affects hydration or fluid balance, are pregnant, have physician-directed fluid restrictions, or have concerns about your hydration needs, consult an appropriate qualified healthcare professional and follow their guidance.
+
+Do not disregard professional medical advice because of information provided by REEFILL.
+
+## 15. International Users
+
+REEFILL may be available in multiple countries or regions. Privacy and data protection rights may vary depending on where you live.
+
+If applicable law provides you with additional rights regarding personal information processed directly by REEFILL, you may contact us to exercise those rights.
+
+## 16. Changes to This Privacy Policy
+
+We may update this Privacy Policy as REEFILL evolves, including when features, third-party services, or data practices change.
+
+When material changes are made, the Effective Date at the top of this Privacy Policy will be updated.
+
+We encourage users to review this Privacy Policy periodically.
+
+## 17. Contact Us
+
+If you have questions, concerns, or requests regarding this Privacy Policy or REEFILL's privacy practices, contact:
 
 [santamuphy7@gmail.com](mailto:santamuphy7@gmail.com)
